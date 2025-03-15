@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 - 🔹 Desenvolvedor full stack com foco em **JavaScript, Angular, Node.js e Bootstrap**
-- 🔹 Estudante de **Engenharia de Software** na Uniceplac - Gama
+- 🔹 Estudante de **Engenharia de Software** na Uniceplac - Distrito Federal/Gama
 - 🔹 Criando soluções inovadoras e aprendendo algo novo todos os dias
 
 ## 🛠️ Tecnologias & Ferramentas
