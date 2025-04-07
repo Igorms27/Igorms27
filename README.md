@@ -3,7 +3,7 @@
 💻 **Desenvolvedor Full Stack** | 🚀 Apaixonado por tecnologia | 🎯 Focado em JavaScript
 
 ## 🚀 Sobre mim
-- 🔹 Desenvolvedor full stack com foco em **JavaScript, Angular, Node.js e Bootstrap**
+- 🔹 Desenvolvedor full stack
 - 🔹 Estudante de **Engenharia de Software** na Uniceplac - Distrito Federal/Gama
 - 🔹 Criando soluções inovadoras e aprendendo algo novo todos os dias
 
