@@ -20,6 +20,15 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,nodejs,git,c,cloudflare&theme=dark" alt="Tecnologias" />
 </p>
 
+**🤖 IA no dia a dia:** uso IA para programar mais rápido, revisar código e automatizar tarefas
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+</p>
+
 ### 📌 Projetos em destaque
 
 | Projeto | O que é | Stack |
