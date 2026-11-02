@@ -39,12 +39,6 @@
 
 **[SavageWindRecomp](https://github.com/Revivedx/SavageWindRecomp)**: recompilação estática de Zelda: Breath of the Wild para Windows e Linux (C)
 
-- 🧮 [#63](https://github.com/Revivedx/SavageWindRecomp/pull/63): suporte a CPUs sem AVX2/FMA, com FMA em software validado bit a bit em 300 milhões de casos
-- 🪵 [#157](https://github.com/Revivedx/SavageWindRecomp/pull/157): o setup guarda o motivo da falha do gerador de código do jogo
-- 🖥️ [#159](https://github.com/Revivedx/SavageWindRecomp/pull/159): tela inicial limitada a 60 fps (20 fps fora de foco)
-- 🔧 [#75](https://github.com/Revivedx/SavageWindRecomp/pull/75): IDs do código do jogo estáveis no Makefile
-- ✅ [#64](https://github.com/Revivedx/SavageWindRecomp/pull/64): o harness de testes SIMD falha a execução quando para antes do fim
-
 [Ver todos os meus PRs →](https://github.com/Revivedx/SavageWindRecomp/pulls?q=author%3AIgorms27)
 
 ### 📊 Estatísticas
