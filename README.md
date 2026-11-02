@@ -11,7 +11,6 @@
 ### 🚀 Sobre mim
 
 - 💼 Faço sites, portfólios e sistemas sob medida para clientes
-- 🎮 Contribuo com o **SavageWindRecomp**, projeto de recompilação de Zelda: BotW para PC
 - 📫 Aberto a freelas — fala comigo pelo portfólio
 
 ### 🛠️ Tecnologias
